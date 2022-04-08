@@ -136,3 +136,12 @@ button:disabled {
 .paciente-invalido {
   background-color: lightcoral;
 }
+#mensagem-erro {
+  background-color: lightcoral;
+  width:75%;
+  display: none;
+  height:50px;
+  padding: 20px 40px;
+  border-radius: 12px;
+  box-shadow: 5px 5px 5px gray ;
+}
